@@ -1,0 +1,1 @@
+cat *.csv>merge_file_name.csv
